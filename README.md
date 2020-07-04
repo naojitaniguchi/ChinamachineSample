@@ -8,7 +8,7 @@ Scenes/TimelineSWSample
 Scenes/HorizontalScroll  
 は Framing Transposer を使った横スクロールのサンプル
 左右矢印キーで移動、スペースでジャンプ    
-[![youtube](https://img.youtube.com/vi/ps3FbzbgUU/0.jpg)](http://www.youtube.com/watch?v=ps3FbzbgUU "Unity Cinemachine horizontal scroll game sample.")
+[![youtube](https://img.youtube.com/vi/-ps3FbzbgUU/0.jpg)](http://www.youtube.com/watch?v=-ps3FbzbgUU "Unity Cinemachine horizontal scroll game sample.")
 
 Scenes/3rdPerson  
 は 3rd Person Follow を使った3rd person viewのアクションゲームのサンプル  
